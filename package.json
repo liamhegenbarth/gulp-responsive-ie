@@ -1,0 +1,17 @@
+{
+  "name": "gulp-responsive-ie",
+  "description": "Remove media queries for older IE browsers",
+  "version": "0.1.0",
+  "homepage": "http://github.com/liamhegenbarth/gulp-responsive-ie",
+  "repository": "git://github.com/liamhegenbarth/gulp-responsive-ie.git",
+  "author": "Liam Hegenbarth <mail@liamhegenbarth.co.uk> (http://www.liamhegenbarth.co.uk/)",
+  "main": "./index.js",
+  "keywords": [
+    "gulpplugin"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+  	"gulp-util": "^3.0.2",
+    "through2": "^0.6.3"
+  }
+}
